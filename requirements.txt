@@ -1,0 +1,6 @@
+tqdm
+pymongo
+requests
+BeautifulSoup
+re
+json

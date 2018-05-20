@@ -1,0 +1,12 @@
+Run makefile to install all the dependencies
+Please install mongoDB and run instance of mongod.
+configure path and port of Db in each script
+
+Please run scripts in sequence : -
+
+1.Uid_scraper.py
+2.Fetch_Metadata.py
+3.Crx_Dwonload.py
+4.Fetch_Manifest_permissions
+
+Please excuse if you feel codes are are bit sloppy , basically its like that so it could be modifed as per our needs
